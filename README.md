@@ -23,7 +23,7 @@ git clone https://github.com/sanketg99/Albums-list-React.git
 2. Navigate to the project directory:
 
 ```bash
-cd Albums-list-React.git
+cd Albums-list-React
 ```
 
 3. Install the dependencies:
