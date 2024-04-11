@@ -1,4 +1,4 @@
-#host Link https://effulgent-torrone-80eb07.netlify.app
+#host Link https://inquisitive-cajeta-18573f.netlify.app/
 
 # Album-List-React
 
@@ -17,7 +17,7 @@ To run the app on your local machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/sanketg99/Calculator-React.git
+git clone https://github.com/sanketg99/Albums-list-React.git
 ```
 
 2. Navigate to the project directory:
